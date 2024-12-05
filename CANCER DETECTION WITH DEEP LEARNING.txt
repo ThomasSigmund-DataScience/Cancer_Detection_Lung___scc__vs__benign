@@ -1,0 +1,149 @@
+Cancer Detection via
+Deep Learning
+Analyzed by : Thomas Sigmund									     December 2024
+
+Analysis Data
+Lung tissue
+		Adenocarcinoma (ACA)
+		Squamous Cell Carcinoma (SCC)
+		Benign
+Colon tissue
+	Adenocarcinoma (ACA)
+	Benign
+Histopathological Images
+
+Key Objectives
+Questions to answer
+Is this a cancerous tissue sample?
+What type of cancer is it?
+
+Generate the algorithm
+Deep Learning using Convolutional Neural Networks (CNNs)
+
+Tools to support Medical Doctors
+Cancer Detection via Medical Apps
+
+Commitment to Ongoing Improvement
+Improve Algorithm
+Extending Analysis to Various Cancer Types
+
+
+
+
+
+
+Evaluation
+Data Sets
+Loss / Accuracy
+
+Model Performance
+Loss
+Accuracy
+
+Cancer Detection - Tools
+Five Analysis Scenarios
+
+	Lung Tissue Classification
+		Cancer aca & scc  vs.  benign tissue
+				Cancer aca  vs.  benign tissue
+Cancer scc  vs.  benign tissue
+Cancer aca  vs.  scc 
+
+	Colon Tissue Classification
+			Cancer aca  vs.  benign tissue
+
+			
+
+
+
+Insights
+Supporting Diagnosis Process
+	Timely Diagnosis
+	Assisting Medical Doctors in Stressful Daily Routines
+	Reducing Human Error: A Second Opinion Backup
+
+Conclusions from Results 
+	Prioritize potentially cancerous samples
+	Identify the type of cancer
+Faster initiation of cancer treatment
+
+Reliability 
+	High Accuracy Rate Leading to Correct Predictions
+	
+	
+
+
+Next Steps
+Improve Algorithm
+
+Extending Analysis to Various Cancer Types
+
+Analyze Multiple Images
+
+Robustness with Variable Image Sizes
+
+
+
+Final Thoughts
+Fascinating World of Deep Learning
+Especially Convolutional Neural Networks
+
+Promising Future for Model Improvement
+Improved CNN Algorithms and More Powerful Computing Resources
+
+Helpful Tools
+Assisting Medical Doctors in Stressful Daily Routines
+
+But they are still tools - "the doctor has the final say."
+
+
+
+Cancer Detection via
+Deep Learning
+Analyzed by : Thomas Sigmund									     December 2024
+Thank  you  :)
+
+
+Cancer Detection via
+Deep Learning
+Analyzed by : Thomas Sigmund									     December 2024
+Behind the scenes …
+
+
+
+
+
+
+
+
+EVALUATION
+
+MODEL PERFORMANCE
+
+Confusion Matrix
+
+Predictions
+
+Predictions
+
+STRATEGY 2 - aca vs. scc
+
+
+
+
+STRATEGY 3 - lung aca vs. n
+
+
+
+
+STRATEGY 4 - lung scc vs. n
+
+
+
+
+STRATEGY 5 - colon aca vs. n
+
+
+
+
+Time to rest :)
